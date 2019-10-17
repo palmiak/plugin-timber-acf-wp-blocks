@@ -1,6 +1,0 @@
-* [About](/)
-* [Installation](installation.md)
-* [Example](example.md)
-* [Filters](filters.md)
-* [Read More](read-more.md)
-* [Contributors](contributors.md)
