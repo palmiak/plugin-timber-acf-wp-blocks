@@ -1,4 +1,12 @@
 <?php
+/*
+Plugin Name: Timber ACF WP Blocks
+Plugin URI: https://github.com/palmiak/timber-acf-wp-blocks
+Description: Automatic Timber Blocks
+Author: Maciej Palmowski
+Author URI: https://pandify.pl
+Version: 1.5.0
+*/
 /**
  * Check whether WordPress and ACF are available; bail if not.
  *
