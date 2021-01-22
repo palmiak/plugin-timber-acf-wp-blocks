@@ -3,7 +3,7 @@
  * Plugin Name: Timber ACF WP Blocks
  * Plugin URI: https://github.com/palmiak/timber-acf-wp-blocks
  * Description: Generate ACF Gutenberg blocks just by adding templates to your Timber theme.
- * Version: 1.15.1
+ * Version: 1.15.2
  * Author: palmiak
  * Author URI: https://github.com/palmiak/
  *
