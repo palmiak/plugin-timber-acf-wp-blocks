@@ -21,9 +21,6 @@
             "name": "Nico Prat"
         }
     ],
-    "autoload": {
-        "files": ["timber-acf-wp-blocks.php"]
-    },
     "require-dev": {
         "wp-coding-standards/wpcs": "2.0",
         "dealerdirect/phpcodesniffer-composer-installer": "0.5.0"
